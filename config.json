@@ -1,0 +1,52 @@
+{
+    
+    "ALGEMEEN": "",
+    "token": "OTU0ODAzMjIzMDc4Nzc2ODU0.YjYbyw.dkn6CnDLfH36phRi_lFwGaZ9FfM",
+    "botname": "Mysterieus Pakketje",
+    "botprefix": "!",
+    "color": "#0d4d00",
+    "thumbnail": "https://cdn.discordapp.com/icons/954797594679312424/3849b5befcf5c99a7bf1a93ba6b9cdf5.webp?size=96",
+    "footer": "© T.L.W",
+
+    "STAFF ROLES": "",
+    "bestuurname": "Beheerder",
+    "managementname": "Staff",
+    "supportname": "Support",
+    "supportid": "954852925736382514",
+
+    "MODERATIE COMMANDS": "",
+    "saycmd": "say",
+    
+    "role CATEGORY": "",
+    "rolecmd": "roleselect",
+    "puzzelname": "Puzzelaar",
+    "wolfjename": "Wolfje",
+    "roleemoji": "🧩",
+	"role2emoji": "🐺",	
+
+    "theorie CATEGORY": "",
+    "theoriecmd": "theorie",
+    "theoriechannel": "956610780671934534",
+    "theorieemoji1": "👍",
+    "theorieemoji2": "👎",
+
+    "TICKET CATEGORY": "",
+    "ticketaanmakencmd": "reactionticket",
+    "ticketaddcmd": "add",
+    "ticketremovecmd": "remove",
+    "ticketrenamecmd": "rename",
+    "ticketclosecmd": "close",
+    "ticketcategory": "🎫Tickets",
+    "ticketemojihulp": "❓",
+    
+    
+    "WELKOM CATEGORY": "",
+    "welkomchannel": "954797594679312427",
+    "welkompicture": "https://cdn.discordapp.com/attachments/955906310166179870/955939252552740885/276087515_484779989989876_189369543345138282_n.png",
+    
+    "CODE COMMANDS": "",
+    "codecmd":"zend",
+    "codechannel":"956610780671934534",
+    "codeemoji1": "✅",
+    "codeemoji2": "❎"
+}
